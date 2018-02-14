@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "name": "amelia/savethechange",
+    "description": "Save the Change",
+    "keywords": ["monzo"],
+    "license": "BSD-3-Clause",
     "type": "project",
     "require": {
         "php": ">=7.1",
