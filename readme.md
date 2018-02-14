@@ -3,7 +3,7 @@
 This repo is an open-source version of a save-the-change proof-of-concept shared in the Monzo community.
 
 <p align="center">
-<a href="https://i.imgur.com/UmfVG30.gif"><img src="https://i.imgur.com/UmfVG30.gif" alt="Monzo Save the Change Demo, spending £5.60 and having £0.40 added to a Pot."></a>
+<a href="https://media.giphy.com/media/cCaSiBM4AlxANW4hmA/giphy.gif"><img src="https://media.giphy.com/media/cCaSiBM4AlxANW4hmA/giphy.gif" alt="Monzo Save the Change Demo, spending £5.60 and having £0.40 added to a Pot."></a>
 </p>
 
 ## Limitations
